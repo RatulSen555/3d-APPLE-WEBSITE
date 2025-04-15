@@ -1,26 +1,40 @@
-# 3D Apple Website
+# 🍎 3D Apple Product Showcase Website
 
-An immersive 3D product showcase website inspired by Apple, built using **React.js**, **Three.js**, and **GSAP** for smooth transitions and animations.
+An immersive 3D product landing page inspired by Apple’s design language — built using **React.js**, **Three.js**, and **GSAP** for real-time rendering, fluid animations, and smooth interaction.
 
 ---
 
 ## 🚀 About The Project
 
-This website replicates a high-quality 3D Apple-like product landing experience. It demonstrates my skills in building interactive 3D web environments using **React Three Fiber** and **GSAP**.
+This website replicates a sleek Apple-like 3D experience using modern web technologies.  
+It demonstrates strong command over component-based architecture, animation flow, and 3D scene manipulation via **React Three Fiber**.
 
-💡 Features:
-- Interactive 3D model rendering using Three.js.
-- Smooth animations and transitions powered by GSAP.
-- Responsive design for desktop and mobile.
-- Clean UI mimicking real-world product websites.
+---
+
+### 💡 Features
+
+- ⚡ Real-time 3D model rendering (Three.js / React Three Fiber)
+- 🧠 Smooth animations & transitions (GSAP)
+- 💻 Fully responsive across devices
+- 🎯 Clean Apple-style UI/UX for product presentation
+- 🗂️ Optimized component structure
 
 ---
 
 ## 🖼️ Screenshots
 
-![3D Apple Website Screenshot](public/assets/images/Screenshot.PNG)
+| Landing Page View | Interactive Model |
+|-------------------|-------------------|
+| ![3D Apple Website Screenshot](public/assets/images/Screenshot.PNG) | 
 
-![3D Apple Website Video](public/assets/images/video template.mp4)
+---
+
+## 🎬 Video Demo
+
+If you'd like to watch the project in action:
+
+👉 [Watch the Demo Video](https://imgur.com/a/6nUCA5f)  
+
 
 ---
 
@@ -28,18 +42,29 @@ This website replicates a high-quality 3D Apple-like product landing experience.
 
 - React.js
 - Three.js
-- @react-three/fiber
+- React Three Fiber
 - GSAP
-- Tailwind CSS 
+- Tailwind CSS
 
 ---
 
-## 💻 Setup & Run Locally
+## 💻 Local Setup
 
-1. Install dependencies:
-   npm install
+1. Clone the repository:
+git clone https://github.com/RatulSen555/3d-APPLE-WEBSITE.git
 
-2. Start the development server:
-   npm run dev
-   
-3.Open: http://localhost:3000 
+2.  Install dependencies: 
+npm install
+
+3.Start the development server:
+npm run dev
+
+4.Open in browser:
+http://localhost:3000
+
+
+📌 Project Status
+✅ Completed & Stable
+✨ Optimized for both performance and design.
+
+
