@@ -1,12 +1,43 @@
-# React + Vite
+# 3D Apple Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An immersive 3D product showcase website inspired by Apple, built using **React.js**, **Three.js**, and **GSAP** for smooth transitions and animations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About The Project
 
-## Expanding the ESLint configuration
+This website replicates a high-quality 3D Apple-like product landing experience. It demonstrates my skills in building interactive 3D web environments using **React Three Fiber** and **GSAP**.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💡 Features:
+- Interactive 3D model rendering using Three.js.
+- Smooth animations and transitions powered by GSAP.
+- Responsive design for desktop and mobile.
+- Clean UI mimicking real-world product websites.
+
+---
+
+## 🖼️ Screenshots
+
+![3D Apple Website Screenshot](public/your-screenshot-name.png)
+
+---
+
+## ⚙️ Tech Stack
+
+- React.js
+- Three.js
+- @react-three/fiber
+- GSAP
+- Tailwind CSS 
+
+---
+
+## 💻 Setup & Run Locally
+
+1. Install dependencies:
+   npm install
+
+2. Start the development server:
+   npm run dev
+   
+3.Open: http://localhost:3000 
