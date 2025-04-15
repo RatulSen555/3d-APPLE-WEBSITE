@@ -18,7 +18,7 @@ This website replicates a high-quality 3D Apple-like product landing experience.
 
 ## 🖼️ Screenshots
 
-![3D Apple Website Screenshot](public/your-screenshot-name.png)
+![3D Apple Website Screenshot](public/assets/images/Screenshot.PNG)
 
 ---
 
