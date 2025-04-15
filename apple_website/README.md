@@ -20,6 +20,8 @@ This website replicates a high-quality 3D Apple-like product landing experience.
 
 ![3D Apple Website Screenshot](public/assets/images/Screenshot.PNG)
 
+![3D Apple Website Video](public/assets/images/video template.mp4)
+
 ---
 
 ## ⚙️ Tech Stack
